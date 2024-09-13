@@ -1,0 +1,9 @@
+Francisco;28
+Drielle;29
+Pedro;27
+Vicente;27
+Bernardo;27
+Bruno;26
+Alexandre;26
+Cibelli;30
+Alec;30
