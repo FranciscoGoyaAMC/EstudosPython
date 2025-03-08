@@ -1,4 +1,4 @@
-🐍 Estudos Iniciais de Python
+## 🐍 Estudos Iniciais de Python
 Este repositório contém mais de 100 exercícios realizados durante minha jornada de aprendizado em Python, abrangendo dois cursos diferentes. Os exercícios vão desde conceitos básicos, como print("Hello World"), até tópicos mais avançados, incluindo manipulação de listas, tuplas, dicionários e tratamento de erros.
 
 📌 Conteúdo
